@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor solution](https://www.frontendmentor.io/solutions/four-card-feature-challenge-lGFEVtz_Kg)
+- Live Site URL: [Live demo](https://four-card-features-challenge-rbxc.vercel.app/)
 
 ## My process
 
