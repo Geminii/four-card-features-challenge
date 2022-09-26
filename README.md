@@ -46,6 +46,16 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
+## Author
+
+- Github - [Geminii](https://github.com/Geminii)
+- Dev.to - [Geminii](https://dev.to/geminii)
+- Frontend Mentor - [@Geminii](https://www.frontendmentor.io/profile/Geminii)
+
+## Acknowledgments
+
+Thanks Frontendmentor for this really cool challenge ❤️
+
 ## License
 
 This project is licensed under the MIT License.
